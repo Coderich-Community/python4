@@ -23,7 +23,7 @@ $ git clone https://github.com/Coderich-Community/python4.git
 ```
 
 > This makes a local copy of the repository in your machine.
-Once you have cloned the `Python-Sala` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+Once you have cloned the `python4` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
 # This will change directory to a folder python4
