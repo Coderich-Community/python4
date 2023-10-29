@@ -13,7 +13,7 @@ port = 12345
 client_socket.connect((host, port))
 
 while True:
-    message = input('Enter your message: ')
+    message = input('Enter your message again: ')
     client_socket.send(message.encode('utf-8'))
     data = client_socket.recv(1024).decode('utf-8')
     print('Received:', data)
